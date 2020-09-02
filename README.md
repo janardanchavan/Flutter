@@ -81,6 +81,56 @@ https://www.facebook.com/LinuxWorld.India/posts/4892565897435750
 
 
 
+#Day17 flutter
+18-08-2020
+
+https://www.linkedin.com/posts/linuxworld_day17-flutter-vimaldaga-activity-6701552572651646977-1LQY
+
+https://www.facebook.com/LinuxWorld.India/posts/4994054667286872
+
+
+
+
+#Day18 flutter
+Date-19/08/2020
+
+https://www.linkedin.com/feed/update/urn:li:activity:6701875721540829184
+
+https://www.facebook.com/LinuxWorld.India/posts/4998581623500843
+
+
+
+
+#Day19 flutter
+Date-20/08/2020
+
+https://www.facebook.com/LinuxWorld.India/posts/5003763606315978
+
+https://www.linkedin.com/feed/update/urn:li:activity:6702245186430414848
+
+
+
+
+#Day20_Flutter
+Date: 25/08/2020
+
+https://www.linkedin.com/feed/update/urn:li:activity:6704062225298051072
+
+https://www.facebook.com/LinuxWorld.India/posts/5029211723771166
+
+
+
+
+#Day21_Flutter
+26/08/2020
+
+https://www.linkedin.com/feed/update/urn:li:activity:6704440305099309056
+
+https://www.facebook.com/LinuxWorld.India/posts/5034807513211587
+
+
+
+
 #Day22_Flutter
 27/08/2020
 

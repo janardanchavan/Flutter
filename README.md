@@ -4,9 +4,7 @@ Flutter Training by LinuxWorld Informatics Pvt Ltd.
 #Day1 Flutter
 16-07-2020
 
-https://www.linkedin.com/feed/update/urn:li:activity:6689585167637516288
-
-https://www.facebook.com/LinuxWorld.India/posts/4825589350800072
+-----------
 
 
 

@@ -81,6 +81,56 @@ https://www.facebook.com/LinuxWorld.India/posts/4892565897435750
 
 
 
+#Day12 flutter
+06-08-2020
+
+https://www.linkedin.com/feed/update/urn:li:activity:6697161737533231104
+
+https://www.facebook.com/LinuxWorld.India/posts/4933917116633961
+
+
+
+
+#Day13 flutter
+10-08-2020
+
+https://www.linkedin.com/feed/update/urn:li:activity:6698623911568965632
+
+https://www.facebook.com/LinuxWorld.India/posts/4953738551318484
+
+
+
+
+#Day-14 Flutter
+11-8-2020
+
+https://www.linkedin.com/feed/update/urn:li:activity:6698977114533744641
+
+https://www.facebook.com/LinuxWorld.India/posts/4958432437515762
+
+
+
+
+#Day-15 Flutter
+13-8-2020
+
+https://www.linkedin.com/feed/update/urn:li:activity:6699709232930983936
+
+https://www.facebook.com/LinuxWorld.India/posts/4968524269839912
+
+
+
+
+#Day16 flutter
+14-08-2020
+
+https://www.linkedin.com/feed/update/urn:li:activity:6700068827700563968
+
+https://www.facebook.com/LinuxWorld.India/posts/4973551062670566
+
+
+
+
 #Day17 flutter
 18-08-2020
 
